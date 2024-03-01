@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74e1fe8e_002Dd678_002D41f5_002Dbaf1_002D3ebf404f9964/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FoodTruckServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3E2539D-D284-4931-B99C-3E66F7617E84::net8.0::FoodTruckServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dec14018_002Da54f_002D406c_002Db14c_002D9d814a32711b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FindClosestFoodTrucks_ReturnsCorrectTrucksBasedOnFoodPreference" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3E2539D-D284-4931-B99C-3E66F7617E84::net8.0::FoodTruckServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3E2539D-D284-4931-B99C-3E66F7617E84::net8.0::FoodTruckTest.GeoUtilsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

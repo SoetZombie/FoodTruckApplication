@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckApplication", "FoodTruckApplication\FoodTruckApplication.csproj", "{D8A3B07D-BA28-4729-8462-E80AE6995A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckTest", "FoodTruckTest\FoodTruckTest.csproj", "{D3E2539D-D284-4931-B99C-3E66F7617E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A3B07D-BA28-4729-8462-E80AE6995A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A3B07D-BA28-4729-8462-E80AE6995A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A3B07D-BA28-4729-8462-E80AE6995A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A3B07D-BA28-4729-8462-E80AE6995A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E2539D-D284-4931-B99C-3E66F7617E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E2539D-D284-4931-B99C-3E66F7617E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E2539D-D284-4931-B99C-3E66F7617E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E2539D-D284-4931-B99C-3E66F7617E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
